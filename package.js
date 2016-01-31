@@ -1,17 +1,17 @@
 Package.describe({
-  name: 'rg8772:meteor-loading',
+  name: 'pcel:loading',
   summary: 'A beautiful loading splash screen (please-wait + spinkit bundle)',
-  version: '1.1.3',
+  version: '1.0.3',
   demo: 'loading.meteor.com',
-  git: 'https://github.com/rg8772/meteor-loading/',
+  git: 'https://github.com/pcel/meteor-loading',
 
   // Source repositories
   sources: [{
     source_git: 'https://github.com/Pathgather/please-wait',
-    source_ver: 'v0.0.5'
+    source_ver: 'v0.0.2'
   }, {
     source_git: 'https://github.com/tobiasahlin/SpinKit',
-    source_ver: '1.2.5'
+    source_ver: '1.0.1'
   }]
 });
 
